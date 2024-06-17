@@ -1,1 +1,4 @@
 fastapi
+tensorflow-cpu
+scikit-image
+opencv-python
